@@ -1,0 +1,4 @@
+system-monitor
+*.o
+reports/
+.vscode/
